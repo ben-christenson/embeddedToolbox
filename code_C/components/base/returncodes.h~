@@ -1,0 +1,6 @@
+enum
+{
+   RC_OK,
+   RC_FAIL,
+}
+RETURNCODE;

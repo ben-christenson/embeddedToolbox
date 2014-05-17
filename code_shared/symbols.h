@@ -1,0 +1,2 @@
+#define SYM_CELCIUS
+#define SYM_FARENHIEGHT
